@@ -2,5 +2,10 @@
   "name": "combat helper",
   "version": "1.0.0",
   "manifest_version": 1,
-  "entry": "index.html"
+  "action": {
+    "title": "Combat Helper",
+    "popover": "index.html",
+    "width": 300,
+    "height": 200
+  }
 }
