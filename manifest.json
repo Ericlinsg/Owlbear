@@ -1,7 +1,6 @@
 {
-  "name": "Combat Helper",
+  "name": "combat helper",
   "version": "1.0.0",
-  "description": "Ataque, AC e HP via menu de contexto",
-  "author": "Eric Lins",
+  "manifest_version": 1,
   "entry": "index.html"
 }
