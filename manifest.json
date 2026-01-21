@@ -5,16 +5,8 @@
   "action": {
     "title": "Combat Helper",
     "icon": "icon.svg",
-    "popover": "index.html",
+    "popover": "/index.html",
     "width": 950,
     "height": 500
-  },
-  "permissions": [
-    {
-      "name": "external",
-      "urls": [
-        "https://docs.google.com"
-      ]
-    }
-  ]
+  }
 }
